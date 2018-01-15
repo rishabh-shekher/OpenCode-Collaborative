@@ -829,6 +829,17 @@
            "github" : "https://github.com/masterchef2209",
            "twitter" : "",
            "referral" : ""
-	}
+	},
+	   {
+   	   "name" : "Rishabh Shekher",
+  	   "imageurl" : "contestant/rishabh.jpg",
+           "about" : "learning to learn",
+           "college" : "Indian Institute of Information Technology, Allahabad",
+           "facebook" : "https://www.facebook.com/rishabh.shekher",
+           "github" : "https://github.com/rishabh-shekher",
+           "twitter" : "",
+           "referral" : ""
+	},
+	   
    ]
 }
